@@ -23,4 +23,4 @@ El proyecto está organizado en varias secciones clave:
 ## Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/BioCundiBoyacense.git
+   git clone https://github.com/juveinar/ProyectoBioCundiBoyacense.git
