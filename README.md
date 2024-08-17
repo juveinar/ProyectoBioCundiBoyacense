@@ -20,6 +20,10 @@ El proyecto está organizado en varias secciones clave:
 - **Jinja2** como motor de plantillas para la generación dinámica de HTML.
 - **Python** como lenguaje de programación principal para la lógica del servidor y el procesamiento de datos.
 
+## Contribuciones
+Este proyecto fue desarrollado por Einar Embus Galindo (juveinar@gmail.com) como parte del Bootcamp de Programación nivel Explorador G29.
+
+
 ## Instalación y Uso
 1. Clona el repositorio:
    ```bash
