@@ -1,4 +1,4 @@
-# Proyecto BioCundiBoyacense
+# BioCundiBoyacense
 
 ## Descripción del Proyecto
 **BioCundiBoyacense** es un proyecto dedicado a la exploración y documentación de la biodiversidad en las regiones de Cundinamarca y Boyacá. Este proyecto tiene como objetivo principal crear una plataforma informativa que permita a los usuarios conocer las diversas especies y ecosistemas presentes en estas áreas, promoviendo la conservación y el respeto por la naturaleza.
